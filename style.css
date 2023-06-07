@@ -1,0 +1,37 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body{
+  font-family: Helvetica;
+  font-size: 16px;
+  line-height: 24px;
+  color: #fff;
+  background-color: #1E1D27;
+}
+:root {
+  --black_nav: #0D0C11;
+}
+.letter-white{
+  color: white;
+}
+.nav-item a{
+  color: white;
+}
+.fa-solid{
+  margin-right: 5px;
+}
+nav{
+  color: #fff;
+  background-color: #1E1D27;
+}
+.ancho{
+  max-width: 1200px;
+  margin: auto;
+  border: 1px red solid;
+}
+.logo_disney{
+  width: 100px;
+  height:  100px;
+}
